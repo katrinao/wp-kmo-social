@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: kmo_design
-Donate link: 
+Donate link: http://www.kmo.com.au/
 Tags: social, icons, share, tweet, pin, facebook, twitter, pinterest, googleplus
 Requires at least: 3.0.1
 Tested up to: 4.1
